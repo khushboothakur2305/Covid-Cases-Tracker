@@ -8,4 +8,5 @@ import { SnackbarService } from './shared/services/snackbar.service';
 })
 export class AppComponent {
   title = 'Covid-Cases-Tracker';
+  showFiller = false;
 }
